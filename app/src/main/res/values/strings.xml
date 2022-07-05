@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CluelessTest2</string>
+    <string name="TitleText" />
+    <string name="title_text" />
+    <string name="title_text1">Clueless</string>
+    <string name="clothingName" />
+    <string name="clothingType" />
+    <string name="clothingColour" />
+    <string name="textview">TextView</string>
+    <string name="switch">Switch</string>
+</resources>
